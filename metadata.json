@@ -1,0 +1,7 @@
+{
+  "name": "FreshSnap",
+  "description": "A smart inventory tracker that uses Gemini AI to analyze photos of food and daily items, extracting expiration dates and managing freshness reminders.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
